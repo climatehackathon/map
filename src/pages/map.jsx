@@ -9,7 +9,7 @@ import LeafLetMap from '../components/mapComponent/drawOnMap';
 
 const MapPage = () => {
   React.useEffect(() => {
-    document.title = "About"
+    document.title = "Map"
 }, [])
   return (
     <>
