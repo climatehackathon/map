@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/map/static/css/main.c5fa6883.chunk.css",
+    "main.js": "/map/static/js/main.372ab910.chunk.js",
+    "main.js.map": "/map/static/js/main.372ab910.chunk.js.map",
+    "runtime-main.js": "/map/static/js/runtime-main.a84f0cb1.js",
+    "runtime-main.js.map": "/map/static/js/runtime-main.a84f0cb1.js.map",
+    "static/css/2.045a2de9.chunk.css": "/map/static/css/2.045a2de9.chunk.css",
+    "static/js/2.2a22a3d8.chunk.js": "/map/static/js/2.2a22a3d8.chunk.js",
+    "static/js/2.2a22a3d8.chunk.js.map": "/map/static/js/2.2a22a3d8.chunk.js.map",
+    "index.html": "/map/index.html",
+    "static/css/2.045a2de9.chunk.css.map": "/map/static/css/2.045a2de9.chunk.css.map",
+    "static/css/main.c5fa6883.chunk.css.map": "/map/static/css/main.c5fa6883.chunk.css.map",
+    "static/js/2.2a22a3d8.chunk.js.LICENSE.txt": "/map/static/js/2.2a22a3d8.chunk.js.LICENSE.txt",
+    "static/media/Jonas.10f49b32.png": "/map/static/media/Jonas.10f49b32.png",
+    "static/media/Landpro1.8ef9ab15.png": "/map/static/media/Landpro1.8ef9ab15.png",
+    "static/media/Landpro2.6971a4d6.png": "/map/static/media/Landpro2.6971a4d6.png",
+    "static/media/Landpro3.0f5aec95.png": "/map/static/media/Landpro3.0f5aec95.png",
+    "static/media/Markus.731a7f21.png": "/map/static/media/Markus.731a7f21.png",
+    "static/media/leaflet.draw.css": "/map/static/media/spritesheet.a4e0eb7a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a84f0cb1.js",
+    "static/css/2.045a2de9.chunk.css",
+    "static/js/2.2a22a3d8.chunk.js",
+    "static/css/main.c5fa6883.chunk.css",
+    "static/js/main.372ab910.chunk.js"
+  ]
+}
